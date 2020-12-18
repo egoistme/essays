@@ -21,7 +21,7 @@ css固定定位`position:fixed`很容易使用，就是相对浏览器的viewpor
 </style>
 ```
 
-![image-20201218154433742](./assets//image-20201218154433742.png)
+![image-20201218154433742](./assets/image-20201218154433742.png)
 
 当父级元素设置transform之后
 
